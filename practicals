@@ -44,6 +44,31 @@ eg.1)print("hello world");
 
 
 
+
+docker2
+
+
+
+
+
+
+
+Docker installation Steps:-
+(1) Sudo apt get-update
+(2) Sudo apt install docker.io
+(3) sudo snap install docker
+Done
+Next steps for testing installation 
+(1) docker -- version 
+(2) sudo docker run hello-world
+(3) Sudo docker images
+(4) sudo docker ps -a
+sudo docker ps
+
+
+
+
+
 >...nodejs...<
 
 
