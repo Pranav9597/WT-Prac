@@ -69,6 +69,26 @@ sudo docker ps
 
 
 
+
+
+
+angular
+
+
+
+npm install -g @angular/cli
+
+ls
+
+npm init
+
+ng new my-appls
+
+cd my my-app
+
+ng server
+
+
 >...nodejs...<
 
 
